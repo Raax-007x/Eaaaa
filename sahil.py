@@ -19,7 +19,7 @@ def run_flask():
 # ---------- CONFIG ----------
 TOKEN = '8607310920:AAEZWKCoULqvS-lWsY_uhLbC6g5NdWG-vBg'
 bot = telebot.TeleBot(TOKEN)
-ADMIN_IDS = [2085082046]  # Replace with actual admin IDs
+ADMIN_IDS = [8640134736]  # Replace with actual admin IDs
 USERS_FILE = 'users.txt'
 blocked_ports = [8700, 20000, 443, 17500, 9031, 20002, 20001]
 
